@@ -79,7 +79,7 @@ X and Y values
 Predication values of X and Y
 ![Screenshot 2024-03-06 102509](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/558be3c7-7c40-4d8d-a205-422ad468570f)
 
-MSE,MAE and RMSE
+MSE,MAE and RMSE:
 ![Screenshot 2024-03-06 102517](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/26b025b6-0667-4ced-b634-a82179f899f9)
 
 Training Set
