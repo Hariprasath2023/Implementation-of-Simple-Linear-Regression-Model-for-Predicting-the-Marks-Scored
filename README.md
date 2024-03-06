@@ -87,9 +87,11 @@ MSE,MAE and RMSE:
 ![Screenshot 2024-03-06 102517](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/26b025b6-0667-4ced-b634-a82179f899f9)
 
 Training Set
+
 ![Screenshot 2024-03-06 102543](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/9dae1369-d75f-4907-a113-a8ab763bb29c)
 
 Testing Set
+
 ![Screenshot 2024-03-06 102554](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/b11beb87-967e-4af1-ae4d-db703400323c)
 
 
