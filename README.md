@@ -65,12 +65,15 @@ print("RMSE= ",rmse)
 
 ## Output:
 Dataset:
+
 ![Screenshot 2024-03-06 102327](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/c6196c72-58bf-4d5e-9e24-f7ea553cf9e5)
 
 Head Values
+
 ![Screenshot 2024-03-06 102431](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/14a6c0ac-d54f-4765-859b-31025a1e2b88)
 
 Tail Values
+
 ![Screenshot 2024-03-06 102438](https://github.com/Hariprasath2023/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145207783/852d5413-9c26-4358-b7f8-0ea5234eedc1)
 
 X and Y values
